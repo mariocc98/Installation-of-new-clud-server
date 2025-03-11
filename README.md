@@ -1,4 +1,4 @@
-# Installation of new clud server
+# Installation of new cloud server
 <br>
 <h2>Description</h2>
 Our company aimed to expand its cloud hosting services by deploying an additional four servers to enhance service delivery. This expansion required configuring the new servers and integrating them into our existing network infrastructure within the data center
