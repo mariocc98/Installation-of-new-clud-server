@@ -15,5 +15,9 @@ Upon completing the initial configurations, I installed a Broadcom NIC "Network 
 <li>Troubleshooting and Diagnostics</li>
 <li>Cloud Infrastructure Understanding</li>
 <h2>Results</h2>
-<li>Reduced Downtime: Restored services in a time frame, minimizing disruption on the service </li>
-<li>Collaborative Success: Worked closely with the DirecTV engineering team to diagnose and resolve the issue</li>
+<li>Successfully expanded the cloud hosting infrastructure by integrating four new servers, ensuring the company could meet increasing client demands. </li>
+<li>Improved the reliability and efficiency of remote management and server maintenance through the configuration of IPMI (Intelligent Platform Management Interface).</li>
+<li>Enhanced network communication with the secondary cloud infrastructure, ensuring seamless data flow between systems.</li>
+<li>The installation of SFP modules and Broadcom NICs ensured compatibility and performance, reducing the risk of network bottlenecks.</li>
+<li>The server configuration and hardware upgrades resulted in increased uptime and scalability of the cloud services, contributing to improved service delivery to clients.</li>
+<li>Post-installation testing confirmed that all systems were operating at optimal performance, with no reported issues in the first month of operation.</li>
