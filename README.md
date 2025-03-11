@@ -7,10 +7,11 @@ As the technician involved in this project, I was responsible for installing the
 
 After completing all the installations and configurations, the final task was to install a different NIC "Network Interface Card". This was necessary because communication with the secondary cloud required matching NICs, and in this case, a Broadcom NIC was required for compatibility. I also ensured that the necessary drivers were installed to ensure proper functionality.
 <h2>Technical Skills</h2>
-<li>Hardware Inspection </li>
-<li>Network Troubleshooting</li>
-<li>Collaboration with DirecTV Support Team</li>
-<li>Router Configuration</li>
+<li>Operating System Installation and Configuration</li>
+<li>Server Hardware Setup and Configuration</li>
+<li>Networking</li>
+<li>Troubleshooting and Diagnostics</li>
+<li>Cloud Infrastructure Understanding</li>
 <h2>Results</h2>
 <li>Reduced Downtime: Restored services in a time frame, minimizing disruption on the service </li>
 <li>Collaborative Success: Worked closely with the DirecTV engineering team to diagnose and resolve the issue</li>
