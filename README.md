@@ -20,4 +20,4 @@ Upon completing the initial configurations, I installed a Broadcom NIC "Network 
 <li>Enhanced network communication with the secondary cloud infrastructure, ensuring seamless data flow between systems.</li>
 <li>The installation of SFP modules and Broadcom NICs ensured compatibility and performance, reducing the risk of network bottlenecks.</li>
 <li>The server configuration and hardware upgrades resulted in increased uptime and scalability of the cloud services, contributing to improved service delivery to clients.</li>
-<li>Post-installation testing confirmed that all systems were operating at optimal performance, with no reported issues in the first month of operation.</li>
+<li>Post installation testing confirmed that all systems were operating at optimal performance, with no reported issues in the first month of operation.</li>
