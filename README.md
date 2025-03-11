@@ -3,8 +3,7 @@
 <h2>Description</h2>
 Our company has decided to expand its cloud hosting business by deploying an additional four servers to enhance the delivery of cloud services to clients. This expansion includes configuring the servers and integrating them into the network infrastructure within the data center
 <h2>My Role</h2>
-As the NOC technician assigned to the task, I coordinated with the support team to identify the issue with the switch. After inspecting the router, which was not responding, I decided to restart it. However, this didn't resolve the problem. I then removed the router from the rack to check if the power supply was the issue, but that wasn't the case. Upon inspecting the (NIC), I noticed it appeared to be functioning correctly. After re plugging everything together, the IP address still wasn't responding to ping requests. At this point, the network engineer from DirecTV and I concluded that the router had failed. He then requested that a replacement router be sent to the data center.
-The installation of the new router was straightforward. The only issue was that we were missing one of the NICs, so we decided to reuse the NIC from the old router. After completing the installation and placing the router in the rack, everything was functioning as expected
+As the technician involved in this project, I was responsible for installing the operating system, Windows Server, and configuring the IPMI "Intelligent Platform Management Interface" for efficient remote management and maintenance. Additionally, I was in charge of installing SFPmodules to enable communication with the secondary cloud infrastructure.
 <h2>Technical Skills</h2>
 <li>Hardware Inspection </li>
 <li>Network Troubleshooting</li>
