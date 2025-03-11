@@ -7,9 +7,11 @@ As the technician assigned to this project, I was responsible for installing the
 
 Upon completing the initial configurations, I installed a Broadcom NIC "Network Interface Card" to ensure compatibility for communication with the secondary cloud infrastructure. I also made sure the necessary drivers were installed and verified functionality to ensure optimal performance
 <h2>Technical Skills</h2>
-<li>Operating System Installation and Configuration</li>
+<li>Operating System Installation and Configuration (Windows Server 2025)</li>
 <li>Server Hardware Setup and Configuration</li>
-<li>Networking</li>
+<li>Networking (IP Configuration, IPMI Setup)</li>
+<li>SFP Module Installation</li>
+<li>NIC (Network Interface Card) Installation and Configuration</li>
 <li>Troubleshooting and Diagnostics</li>
 <li>Cloud Infrastructure Understanding</li>
 <h2>Results</h2>
